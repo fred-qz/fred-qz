@@ -1,5 +1,4 @@
 - Im Fredqz
 - I am from Estonia
-- I am learning Lua and Luau
-- I love speedway and gambling
-
+- I am learning Luau, Pythom, HTML and CSS
+- Check out my own programming language AksuPaksu
